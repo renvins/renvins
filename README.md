@@ -2,7 +2,7 @@
 <h3 align="left">I'm a Java addicted developer</h3>
 
 <a href="#title" align="right">
-  ![renvins's Streak](https://github-readme-streak-stats.herokuapp.com/?user=renvins&theme=default&hide_border=true)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=renvins&theme=default&hide_border=true">
 </a>
 
 - :office: &nbsp;I'm currently working at **AresNetwork**
