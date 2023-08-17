@@ -13,8 +13,6 @@
 - :mailbox: &nbsp;Ask me anything on my discord **@renvins**
 - :computer: &nbsp;Connect with me on telegram **@renvins**
 
-<br>
-
 <h2 align="left" id="macropower-tech">Favorite Technologies</h2>
 
 > Tools, languages, and frameworks for Java that I love working with.
