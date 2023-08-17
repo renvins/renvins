@@ -2,8 +2,10 @@
 <h3 align="left">I'm a Java addicted developer</h3>
 
 <a href="#title" align="right">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=renvins&theme=default&hide_border=true">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=renvins&theme=default&hide_border=false">
 </a>
+
+<br>
 
 - :office: &nbsp;I'm currently working at **AresNetwork**
 - :speech_balloon: &nbsp;I like to talk about **maths** and **physics**
