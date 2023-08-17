@@ -1,11 +1,70 @@
-<h1 align="center">Hi 👋, I'm renvins</h1>
-<h3 align="center">A passionate Java developer from Italy</h3>
+<h1 align="left" id="title">:wave: Hello there! I'm Vincenzo R. (renvins)</h1>
+<h3 align="left">I'm a Java addicted developer</h3>
 
-- 🔭 I’m currently working on a **network**
+<a href="#title" align="right">
+  ![renvins's Streak](https://github-readme-streak-stats.herokuapp.com/?user=renvins&theme=default&hide_border=true)
+</a>
 
-- 🌱 I’m currently learning in free time **C++**
+- :office: &nbsp;I'm currently working at **AresNetwork**
+- :speech_balloon: &nbsp;I like to talk about **maths** and **physics**
+- :mailbox: &nbsp;Ask me anything on my discord **@renvins**
+- :computer: &nbsp;Connect with me on telegram **@renvins**
 
-- 📫 How to reach me **vincenzoreinaa05@gmail.com** or **@renvins** on discord
+<br>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
+<h2 align="left" id="macropower-tech">Favorite Technologies</h2>
+
+> Tools, languages, and frameworks for Java that I love working with.
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#renvins-tech">
+        <img src="imgs/java-svgrepo-com.svg" width="48" height="48" alt="Java" />
+      </a>
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <a href="#renvins-tech">
+        <img src="imgs/docker-svgrepo-com.svg" width="48" height="48" alt="Docker" />
+      </a>
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <a href="#renvins-tech">
+        <img src="imgs/redis-svgrepo-com.svg" width="48" height="48" alt="Redis" />
+      </a>
+      <br>Redis
+    </td>
+    <td align="center" width="96">
+      <a href="#renvins-tech">
+        <img src="imgs/rabbitmq-icon-svgrepo-com.svg" width="48" height="48" alt="RabbitMQ" />
+      </a>
+      <br>RabbitMQ
+    </td>
+    <td align="center" width="96">
+      <a href="#renvins-tech" >
+        <img src="imgs/mysql-logo-svgrepo-com.svg" width="48" height="48" alt="MySQL" />
+      </a>
+      <br>MySQL
+    </td>
+    <td align="center" width="96"> 
+      <a href="#renvins-tech" >
+        <img src="imgs/spring-svgrepo-com.svg" width="48" height="48" alt="Spring" />
+      </a>
+      <br>Spring
+    </td>
+    <td align="center"  width="96">
+      <a href="#renvins-tech">
+        <img src="imgs/hibernate-svgrepo-com.svg" width="48" height="48" alt="Hibernate" />
+      </a>
+      <br>Hibernate
+    </td>
+    <td align="center" width="96">
+      <a href="#renvins-tech" >
+        <img src="imgs/ubuntu-svgrepo-com.svg" width="48" height="48" alt="Ubuntu" />
+      </a>
+      <br>Ubuntu
+    </td>
+  </tr>
+</table>
