@@ -8,7 +8,7 @@
 <br>
 <br>
 
-- :office: &nbsp;I'm currently studying **React**
+- :office: &nbsp;I'm currently studying at **Fardella Ximenes High School**
 - :speech_balloon: &nbsp;I like to talk about **maths** and **physics**
 - :mailbox: &nbsp;Ask me anything on my discord **@renvins**
 - :computer: &nbsp;Connect with me on telegram **@renvins**
