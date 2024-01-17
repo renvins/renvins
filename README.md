@@ -1,10 +1,6 @@
 <h1 align="left" id="title">:wave: Hello there! I'm Vincenzo R. (renvins)</h1>
 <h3 align="left">I'm a Java addicted developer</h3>
 
-<a href="#title" align="right">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=renvins&theme=default&hide_border=false">
-</a>
-
 <br>
 <br>
 
