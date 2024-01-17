@@ -1,9 +1,6 @@
 <h1 align="left" id="title">:wave: Hello there! I'm Vincenzo R. (renvins)</h1>
 <h3 align="left">I'm a Java addicted developer</h3>
 
-<br>
-<br>
-
 - :office: &nbsp;I'm currently studying at **Fardella Ximenes High School**
 - :speech_balloon: &nbsp;I like to talk about **maths** and **physics**
 - :mailbox: &nbsp;Ask me anything on my discord **@renvins**
