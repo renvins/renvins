@@ -4,7 +4,7 @@ Hi 👋 My name is Vincenzo R.
 Undergraduate BSc | Software Engineer
 -------------------------------------
 
-I've been learning code from 5 years, with particular interest to Java back-end development.
+I've been learning code since 2018, with particular interest in Java back-end development.
 
 *   🌍  I'm based in Palermo
 *   ✉️  You can contact me at [vincenzoreinaa05@gmail.com](mailto:vincenzoreinaa05@gmail.com)
