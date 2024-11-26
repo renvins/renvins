@@ -8,7 +8,7 @@ I've been learning code since 2018, with particular interest in Java back-end de
 
 *   🌍  Currently pursuing Bachelor's degree in Computer Science at the University of Palermo
 *   🚀  I'm currently working on [scalable-task-manager](http://github.com/scalable-task-manager)
-*   🧠  I'm learning Data Structers & Algorithms
+*   🧠  I'm studying Machine Learning and Data Science
 *   🤝  I'm open to collaborating on open source projects
 *   ✉️  You can contact me at [vincenzoreinaa05@gmail.com](mailto:vincenzoreinaa05@gmail.com)
 
