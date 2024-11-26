@@ -1,4 +1,4 @@
-\Hi 👋 My name is Vincenzo Reina
+Hi 👋 My name is Vincenzo Reina
 ============================
 
 Undergraduate BSc | Software Engineer
