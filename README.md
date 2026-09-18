@@ -4,7 +4,7 @@ Hi 👋 My name is Vincenzo Reina
 Software Engineer
 -------------------------------------
 
-I've been learning to code since 2018, with particular interest in back-end development.
+I've been learning to code since 2018, with particular interest in back-end and machine learning.
 
 *   ⚙️  Currently doing a SRE internship @ Google
 *   🌍  I'm pursuing a Bachelor's degree in Computer Science at the University of Palermo
